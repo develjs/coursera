@@ -90,6 +90,7 @@ ENV/
 env.bak/
 venv.bak/
 /shad-env
+/.shadow-env
 
 # Spyder project settings
 .spyderproject
